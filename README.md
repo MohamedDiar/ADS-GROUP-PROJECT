@@ -26,6 +26,13 @@ The user enters their choice. After their choice is validated, the respective ac
     - **User Input**: number of rooms to be hosted, location of the host, area, amount of points to charge, period time willing to host, phone number and description of the host.
     - **Output**: Confirmatory message and host details(Number of Rooms: City, Area, Number of points wanted, time span, Phone number, Name, Age, Description).  
 
+Important Notice:
+The following data structures were used:
+
+  1. Hash Tables - Used to store all details regarding cities and hosts available for booking
+  2. Heaps - used to find the most appropriate bookings based on the range of number of points entered in the guest function by the user.
+
+
 
 
 
