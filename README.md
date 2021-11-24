@@ -35,9 +35,13 @@ The following data structures were used:
 # MEMBERS
 The authors for this project are:   
 MOHAMED DIARRA 
+
 JORGE SEGURA
+
 TAHA YASSINE  
+
 ALVARO RIJK   
+
 MATEO PLOQUIN
 
 
