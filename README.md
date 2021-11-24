@@ -32,6 +32,14 @@ The following data structures were used:
   1. Hash Tables - Used to store all details regarding cities and hosts available for booking
   2. Heaps - used to find the most appropriate bookings based on the range of number of points entered in the guest function by the user.
 
+# MEMBERS
+The authors for this project are:   
+MOHAMED DIARRA 
+JORGE SEGURA
+TAHA YASSINE  
+ALVARO RIJK   
+MATEO PLOQUIN
+
 
 
 
